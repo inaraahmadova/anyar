@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Create";
+}
+@model CreateEmployeeVM
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Name">Name</label>
+        <input asp-for ="Name" class="form-control">
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Subtitle">Subtitle</label>
+        <input asp-for="Subtitle" class="form-control">
+        <span asp-validation-for="Subtitle"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="ImageUrl">ImageUrl</label>
+        <input asp-for="ImageUrl" class="form-control">
+        <span asp-validation-for="ImageUrl"></span>
+    </div>
+    <button type="submit" class="btn btn-primary" fdprocessedid="exuqs5">Submit</button>
+</form>

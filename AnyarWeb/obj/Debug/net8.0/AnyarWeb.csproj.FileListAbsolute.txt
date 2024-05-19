@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\AnyarWeb\AnyarWeb\obj\Debug\net8.0\AnyarWeb.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\AnyarWeb\AnyarWeb\obj\Debug\net8.0\AnyarWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\AnyarWeb\AnyarWeb\obj\Debug\net8.0\AnyarWeb.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\AnyarWeb\AnyarWeb\obj\Debug\net8.0\AnyarWeb.AssemblyInfo.cs
+C:\Users\Hp\Desktop\AnyarWeb\AnyarWeb\obj\Debug\net8.0\AnyarWeb.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\AnyarWeb\AnyarWeb\obj\Debug\net8.0\AnyarWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\AnyarWeb\AnyarWeb\obj\Debug\net8.0\AnyarWeb.RazorAssemblyInfo.cache
+C:\Users\Hp\Desktop\AnyarWeb\AnyarWeb\obj\Debug\net8.0\AnyarWeb.RazorAssemblyInfo.cs

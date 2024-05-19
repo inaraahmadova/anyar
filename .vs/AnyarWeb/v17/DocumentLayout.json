@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\dataacceslayer\\anyarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\dataacceslayer\\anyarcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\viewmodels\\employees\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\viewmodels\\employees\\getemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\viewmodels\\employees\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\viewmodels\\employees\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\viewmodels\\employees\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\viewmodels\\employees\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|c:\\users\\hp\\desktop\\anyarweb\\anyarweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\migrations\\20240518163903_createanyartable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\migrations\\20240518163903_createanyartable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|C:\\Users\\Hp\\Desktop\\AnyarWeb\\anyarweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FDD1C960-6B4D-4EE5-AC55-A64EC9717F4B}|AnyarWeb\\AnyarWeb.csproj|solutionrelative:anyarweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AnyarWeb\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "AnyarWeb\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:36:56.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AnyarWeb\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Models\\AppUser.cs",
+              "RelativeToolTip": "AnyarWeb\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:11:46.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnyarContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\DataAccesLayer\\AnyarContext.cs",
+              "RelativeDocumentMoniker": "AnyarWeb\\DataAccesLayer\\AnyarContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\DataAccesLayer\\AnyarContext.cs",
+              "RelativeToolTip": "AnyarWeb\\DataAccesLayer\\AnyarContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:15:14.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AnyarWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AnyarWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T10:32:45.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AnyarWeb\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AnyarWeb\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:32:11.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "AnyarWeb\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "AnyarWeb\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwFkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:24:40.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "AnyarWeb\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "AnyarWeb\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:48:01.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AnyarWeb\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Models\\Employee.cs",
+              "RelativeToolTip": "AnyarWeb\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T14:03:28.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "AnyarWeb\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "AnyarWeb\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:47:47.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\ViewModels\\Employees\\GetEmployeeVM.cs",
+              "RelativeDocumentMoniker": "AnyarWeb\\ViewModels\\Employees\\GetEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\ViewModels\\Employees\\GetEmployeeVM.cs",
+              "RelativeToolTip": "AnyarWeb\\ViewModels\\Employees\\GetEmployeeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:27:54.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\ViewModels\\Employees\\CreateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "AnyarWeb\\ViewModels\\Employees\\CreateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\ViewModels\\Employees\\CreateEmployeeVM.cs",
+              "RelativeToolTip": "AnyarWeb\\ViewModels\\Employees\\CreateEmployeeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:58:16.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\ViewModels\\Employees\\UpdateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "AnyarWeb\\ViewModels\\Employees\\UpdateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\ViewModels\\Employees\\UpdateEmployeeVM.cs",
+              "RelativeToolTip": "AnyarWeb\\ViewModels\\Employees\\UpdateEmployeeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:28:36.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AnyarWeb\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "AnyarWeb\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T14:33:19.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AnyarWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AnyarWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:12:44.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AnyarWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AnyarWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAiwL4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T10:37:37.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AnyarWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AnyarWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T12:16:40.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AnyarWeb\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AnyarWeb\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-18T12:55:27.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "AnyarWeb\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "AnyarWeb\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:25:43.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "AnyarWeb\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "AnyarWeb\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T06:26:34.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AnyarWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AnyarWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:12:15.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AnyarWeb\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AnyarWeb\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:11:44.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240518163903_createAnYarTable.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Migrations\\20240518163903_createAnYarTable.cs",
+              "RelativeDocumentMoniker": "AnyarWeb\\Migrations\\20240518163903_createAnYarTable.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Migrations\\20240518163903_createAnYarTable.cs",
+              "RelativeToolTip": "AnyarWeb\\Migrations\\20240518163903_createAnYarTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T16:39:04.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AnyarWeb\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AnyarWeb\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:16:37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AnyarWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\AnyarWeb\\AnyarWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AnyarWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALACAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T10:34:31.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
